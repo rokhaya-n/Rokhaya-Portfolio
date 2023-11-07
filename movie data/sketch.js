@@ -151,7 +151,7 @@ function draw() {
   textSize(20);
   textAlign(CENTER);
   fill(255);
-  text("Top factors for Gen Z to decide on whether or not go to the movies in the U.S. 2021", 500, 40);
+  text("Top factors for Gen Z to decide on whether or not go to the movies in the U.S. 2022", 500, 40);
 
   //text settings
   noStroke();
